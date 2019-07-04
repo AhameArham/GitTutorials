@@ -1,0 +1,7 @@
+Task 1
+
+Create a directory RapidApplicationDevelopment
+
+Go to the directory RapidApplicationDevelopment
+
+Create another directory call Modulel

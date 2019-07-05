@@ -5,3 +5,21 @@ Create a directory RapidApplicationDevelopment
 Go to the directory RapidApplicationDevelopment
 
 Create another directory call Modulel
+
+Go to the directory Modulel
+
+Create a  file index.html
+
+Add this file to your GitHub account 
+
+Modify the index.html as a welcome page of your Modulel
+
+if your have use any .css or .js files for the design
+
+Create a Directory resources inside modules
+
+inside the resourse create two directries css, js
+
+Move your .css and .js files inside those directory
+
+push all of your changes to  your remote GitHub account 
